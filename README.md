@@ -1,4 +1,4 @@
-#INTRODUCTION
+INTRODUCTION
 - 👋 Hi, I’m @HatmanWGrey
 - 👀 I’m interested in AI, Game Development, Cybersecurity, and Computer science
 - 🌱 I’m currently learning Starting ML and AI prompting, Distributed Systems, and starting various Cyber Security Projects.
@@ -7,13 +7,13 @@
 - 😄 Pronouns: You don't get this data for free 
 - ⚡ Fun fact: I have a lot of projects. Feel free to look!
 
-#What's the point of this profile? 
+What's the point of this profile? 
 This is supposed to give a quick overview of my projects. 
 
-##Table of Contents
+Table of Contents
 - This is the start for now. 
 
-#LICENSE 
+LICENSE 
 AI disclaimer:
 This project includes some code that's generated that may be modified for projects usaage.
 
