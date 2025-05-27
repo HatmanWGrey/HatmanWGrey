@@ -3,15 +3,15 @@ INTRODUCTION
 - 👀 I’m interested in AI, Game Development, Cybersecurity, and Computer science
 - 🌱 I’m currently learning Starting ML and AI prompting, Distributed Systems, and starting various Cyber Security Projects.
 - 💞️ I’m looking to collaborate on ... well there's a lot of repos
-- 📫 How to reach me: hatmanwgrey@gmail.com
-- 😄 Pronouns: You don't get this data for free 
+- 📫 How to reach me: hatmanwgrey@gmail.com 
 - ⚡ Fun fact: I have a lot of projects. Feel free to look!
 
 What's the point of this profile? 
 This is supposed to give a quick overview of my projects. 
+Currently in progress: Secure Web App 
 
 Table of Contents
-- This is the start for now. 
+- This is the start for now, currently there's no projects to list yet. 
 
 LICENSE 
 AI disclaimer:
