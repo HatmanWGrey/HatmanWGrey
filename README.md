@@ -10,8 +10,15 @@ What's the point of this profile?
 This is supposed to give a quick overview of my projects. 
 Currently in progress: Secure Web App 
 
-Table of Contents
-- This is the start for now, currently there's no projects to list yet. 
+Mav Labs Table of Contents
+- Delta Money
+- Tournament bracket
+- Task tracker
+- tutoring portal
+- Nullify Library
+
+Personal TOC
+- Base template (DONE)
 
 LICENSE 
 AI disclaimer:
