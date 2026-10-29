@@ -10,15 +10,13 @@ What's the point of this profile?
 This is supposed to give a quick overview of my projects. 
 Currently in progress: Secure Web App 
 
-Mav Labs Table of Contents
-- Delta Money
-- Tournament bracket
-- Task tracker
-- tutoring portal
-- Nullify Library
+
 
 Personal TOC
 - Base template (DONE)
+- Red Team AI
+- Blue Team AI
+- Lots of different types of games. 
 
 LICENSE 
 AI disclaimer:
